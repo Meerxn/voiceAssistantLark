@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # Speech assistant beta: Fardeen Meeran
 # email: fardeenfmeeran@gmail.com
+# Spyder IDE
 
 import os # User os system import
 import sys 
